@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "スターダスト",
+  "base_artist": "FOMARE",
+  "createdAt": "2026-02-06T02:41:53.036819Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "スターダスト・キッズ",
+      "artist": "佐野元春",
+      "has_synced": true,
+      "path": "select/01_スターダスト・キッズ_佐野元春.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "スターダスト",
+      "artist": "Myrath",
+      "has_synced": true,
+      "path": "select/02_スターダスト_Myrath.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "スターダスト",
+      "artist": "いとうかなこ",
+      "has_synced": true,
+      "path": "select/03_スターダスト_いとうかなこ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Stardust Rain [スターダスト レイン]",
+      "artist": "Miki Matsubara",
+      "has_synced": true,
+      "path": "select/04_Stardust_Rain_[スターダスト_レイン]_Miki_Matsubara.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "スターダスト",
+      "artist": "Duke Ellington",
+      "has_synced": false,
+      "path": "select/05_スターダスト_Duke_Ellington.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "スターダスト ボーイズ",
+      "artist": "Hironobu Kageyama & Masaaki Endo",
+      "has_synced": false,
+      "path": "select/06_スターダスト_ボーイズ_Hironobu_Kageyama_&_Masaaki_Endo.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ベイビー・スターダスト",
+      "artist": "Thee Michelle Gun Elephant",
+      "has_synced": false,
+      "path": "select/07_ベイビー・スターダスト_Thee_Michelle_Gun_Elephant.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "スターダスト・ドリーム",
+      "artist": "Yoko Oginome",
+      "has_synced": true,
+      "path": "select/08_スターダスト・ドリーム_Yoko_Oginome.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "スターダスト",
+      "artist": "美空ひばり",
+      "has_synced": false,
+      "path": "select/09_スターダスト_美空ひばり.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "スターダスト",
+      "artist": "ITOWOKASHI",
+      "has_synced": true,
+      "path": "select/10_スターダスト_ITOWOKASHI.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "スターダスト・キッズ",
+      "artist": "佐野元春",
+      "has_synced": true,
+      "path": "select/11_スターダスト・キッズ_佐野元春.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スターダスト",
+      "artist": "FOMARE",
+      "has_synced": false,
+      "path": "select/pl_01_スターダスト_FOMARE.txt"
+    }
+  ]
+}
